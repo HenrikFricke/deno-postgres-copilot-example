@@ -1,0 +1,3 @@
+CREATE TABLE Deno (
+    id VARCHAR(100) NOT NULL
+);
